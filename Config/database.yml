@@ -1,0 +1,8 @@
+## YAML Template.
+---
+type: mysql
+database_name: tdoth_yamato_db
+database_user: tdoth
+database_password: qSQZSU7d
+database_host: mysql443.db.sakura.ne.jp
+

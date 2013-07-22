@@ -1,0 +1,2 @@
+aaa<br />
+{$hoge}<br />

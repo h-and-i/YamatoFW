@@ -1,0 +1,15 @@
+## ルーティング
+---
+/testcontroller/testaction:
+  controller: test
+  action: testact
+  
+/simpleurltest:
+  controller: test2
+  action: testact2
+
+
+## テスト実行用
+/ExecTest:
+  controller: test
+  action: index

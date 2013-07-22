@@ -1,0 +1,7 @@
+## YAML Template.
+---
+
+server:
+#mod_rewrite使用かどうか  
+  mod_rewrite : true
+  
